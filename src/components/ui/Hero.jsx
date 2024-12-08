@@ -6,13 +6,13 @@ const Hero = () => {
   const router = useRouter();
   return (
     <div
-      className="bg-cover bg-center h-screen "
-      style={{
-        backgroundImage: `url(${BannerImage.src})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-      }}
-    >
+  className="bg-cover bg-center h-screen relative"
+  style={{
+    backgroundImage: `url(${BannerImage.src})`,
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+  }}
+>
       <div className="bg-primary1 md:w-[643px] md:h-[443px] w-10/12 h-10/12 py-2 rounded-lg absolute bottom-32 right-12 px-12 flex flex-col justify-center">
         <h1 className="font-semibold text-[16px] tracking-[3px] text-textColor1 ">
           New Arrival
