@@ -74,7 +74,7 @@ const Footer = () => {
 
       <div className="border-t-2 border-[#9F9F9F] w-10/12 mx-auto lg:mt-0 mt-4">
         <h1 className="my-[38px] text-[16px]">
-          2023 furino. All rights reverved
+          DaniyalAhmed. All rights reverved
         </h1>
       </div>
     </div>
