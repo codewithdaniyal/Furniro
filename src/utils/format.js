@@ -18,7 +18,7 @@ export function formatToRupiah(price) {
   }
 
   // Return the formatted rupiah string
-  return "Rp " + rupiah;
+  return "Rs " + rupiah;
 }
 
 export const convertToDummyCart = (products) => {
