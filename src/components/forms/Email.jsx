@@ -11,8 +11,8 @@ const Email = () => {
           <HiMiniMapPin size={36} />
           <div className="mt-2">
             <h1 className="lg:text-[24px] font-medium">Address</h1>
-            <h2 className="lg:text-[16px] text-[10px] w-1/2">
-              236 5th SE Avenue, New York NY10000, United States
+            <h2 className="lg:text-[18px] text-[14px] w-1/2">
+              Karachi, Pakistan
             </h2>
           </div>
         </div>
@@ -21,7 +21,7 @@ const Email = () => {
           <div className="mt-2">
             <h1 className="lg:text-[24px] font-medium">Phone</h1>
             <h2 className="lg:text-[16px] text-[10px] w-1/2">
-              Mobile: +(84) 546-6789 Hotline: +(84) 456-6789
+              Mobile: +92 3110113650
             </h2>
           </div>
         </div>
